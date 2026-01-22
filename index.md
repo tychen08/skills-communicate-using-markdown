@@ -21,3 +21,8 @@ var myVar = "Hello, world!";
 ``` python
 print(f'Hello world!')
 ```
+
+step 4. task list
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
